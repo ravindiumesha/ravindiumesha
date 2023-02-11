@@ -1,3 +1,13 @@
+<h1 align="center">Hi 👋, I'm Ravindi Umesha</h1>
+<h3 align="center">Software Engineering Student</h3>
+
+- 🔭 I’m currently working on **Sweet Drips Cakes**
+
+- 🌱 I’m currently learning **Institute of Software Engineering (IJSE)**
+
+- 📫 How to reach me **ravindiumesha62@gmail.com**
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ravindi-umesha-6b2739264/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ravindi-umesha-6b2739264/" height="30" width="40" /></a>
